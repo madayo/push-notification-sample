@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Input your ID and Password."
+AuthUserFile /home/sms001/onpreschooladmin.com/public_html/push.onpreschooladmin.com/send/.htpasswd
+require valid-user

@@ -1,0 +1,16 @@
+{
+  "name": "WebPush Test",
+  "short_name": "WebPush Test",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#3c76ff",
+  "background_color": "#0011d3",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
